@@ -1,0 +1,5 @@
+{
+  "name": "Student Photo Labeler",
+  "description": "Upload a photo and overlay student information (Name, No., Class, ML, TA Date) on the top-right corner.",
+  "requestFramePermissions": []
+}
